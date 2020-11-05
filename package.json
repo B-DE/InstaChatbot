@@ -1,0 +1,11 @@
+{
+  "name": "instachatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/b-de/instachatbot",
+  "author": "Seongwon-developer <ysw991106@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.0"
+  }
+}
