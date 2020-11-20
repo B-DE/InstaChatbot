@@ -28,11 +28,11 @@ DB
 
 Front Server, Back Server -> 총 2개의 서버를 둔다.
 
-- Front
+- client
   - public
   - src
 
-- Back
+- server
   - serverwork
   - machinelearning
   - analysis
