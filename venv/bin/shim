@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/home/seongwon/workspace/project/b-de/insta_chatbot/venv/lib/node_modules'
+export NPM_CONFIG_PREFIX='/home/seongwon/workspace/project/b-de/insta_chatbot/venv'
+export npm_config_prefix='/home/seongwon/workspace/project/b-de/insta_chatbot/venv'
+exec '/home/seongwon/workspace/project/b-de/insta_chatbot/venv/bin/node' "$@"
