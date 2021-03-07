@@ -12,5 +12,4 @@ django -v : 3.1.7
 
 djangorestframework -v : 3.12.2
 
-
-
+mysql -v : 8.0.23
